@@ -16,3 +16,11 @@ Banana: Buy one get one free!
 Challenge:
 
 Return the price of a trolley
+
+
+Requirements/ user stories:
+1) select list of items
+2) Gives us an empty trolley
+3) put these items in a trolley
+4) proceed to checkout & total items
+5) return the total
